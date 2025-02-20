@@ -1,0 +1,6 @@
+@ContextoDev.ServicioBasico.Api_HostAddress = http://localhost:5296
+
+GET {{ContextoDev.ServicioBasico.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
