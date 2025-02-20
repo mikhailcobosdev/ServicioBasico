@@ -1,4 +1,4 @@
-@ContextoDev.ServicioBasico.Api_HostAddress = http://localhost:5296
+@ContextoDev.ServicioBasico.Api_HostAddress = http://localhost:5045
 
 GET {{ContextoDev.ServicioBasico.Api_HostAddress}}/weatherforecast/
 Accept: application/json
